@@ -1,0 +1,1 @@
+tinygo flash -port COM14 -target esp8266 ./main.go
